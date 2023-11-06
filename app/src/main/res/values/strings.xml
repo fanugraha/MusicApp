@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Music App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_exsplore_music_way">Welcome to exsplore music way</string>
+    <string name="finding_your_dream_music_is_a_breeze_with_our_app_explore_and_enjoy_your_favorite_tunes_effortlessly_with_exsplore_music_way">Finding your dream music is a breeze with our app explore and enjoy your favorite tunes effortlessly with exsplore music way</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="welcome_back_fajar">Welcome back Fajar</string>
+    <string name="what_do_you_feel_like_today">What do you feel like today?</string>
+    <string name="search_song_playslist_artist">Search song, playslist, artist...</string>
+    <string name="r_b_playlist"><![CDATA[R&B Playlist]]></string>
+    <string name="chill_your_mind">Chill your mind</string>
+    <string name="daily_mix_2">Daily Mix 2</string>
+    <string name="made_for_you">Made for you</string>
+    <string name="recent">Recent</string>
+    <string name="top_50">Top 50</string>
+    <string name="chill">Chill</string>
+    <string name="r_b"><![CDATA[R&B]]></string>
+    <string name="edm">EDM</string>
+    <string name="your_faforite">Your Faforite</string>
+    <string name="bye_bye">Bye Bye</string>
+    <string name="marshmello_juice_wrld">Marshmello, Juice WRLD</string>
+    <string name="_2_09">2:09</string>
+
+</resources>
